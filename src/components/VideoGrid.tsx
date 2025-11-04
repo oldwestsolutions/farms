@@ -14,11 +14,14 @@ const mockVideos: VideoCard[] = [
   {
     id: '1',
     title: 'Girl gets back from the gym and shits her shorts',
-    thumbnail: 'https://thisvid.com/videos/girl-gets-back-from-the-gym-and-shits-her-shorts/',
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fthisvid.com%2Fvideos%2Fgirl-pooping-in-gym-shorts%2F&psig=AOvVaw2JJAHKmg2426rFLCLYy4pl&ust=1762371314759000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPD9iPWe2ZADFQAAAAAdAAAAABAE', // image source
+    link: 'https://thisvid.com/videos/girl-gets-back-from-the-gym-and-shits-her-shorts/', // where to go when clicked
     channel: 'Tech Channel',
     views: '1.2M views',
     timestamp: '3 days ago'
   },
+  // ...
+]
   {
     id: '2',
     title: 'Learn TypeScript in 2024',
