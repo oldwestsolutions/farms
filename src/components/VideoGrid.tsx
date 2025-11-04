@@ -12,13 +12,12 @@ interface VideoCard {
 
 const mockVideos: VideoCard[] = [
   {
-    id: '1',
-    title: 'Athlete Returns from the Gym and Shares Her Routine',
-    image: 'https://picsum.photos/seed/gym/320/180', // sample image
-    link: 'https://example.com/videos/athlete-gym-routine', // example link
-    channel: 'Tech Channel',
-    views: '1.2M views',
-    timestamp: '3 days ago'
+    id: '2',
+    title: 'Learn TypeScript in 2024',
+    thumbnail: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fthisvid.com%2Fvideos%2Fgirl-pooping-in-gym-shorts%2F&psig=AOvVaw2JJAHKmg2426rFLCLYy4pl&ust=1762371314759000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPD9iPWe2ZADFQAAAAAdAAAAABAE',
+    channel: 'Coding Master',
+    views: '500K views',
+    timestamp: '1 week ago'
   },
   {
     id: '2',
